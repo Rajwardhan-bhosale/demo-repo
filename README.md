@@ -1,3 +1,3 @@
 # demo-repo
 first repository
-author = rajwardhan bhosale
+author = rajwardhan bhosale.
